@@ -1,0 +1,4 @@
+name        := "dafny"
+description := "Support files for the verification-aware programming language Dafny"
+homepage    := "https://dafny.org/"
+license     := "MIT"
